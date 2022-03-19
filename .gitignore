@@ -32,3 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 local/.localstack/
+
+/.mvn
+/mvnw
+/mvnw.cmd
+/.mvn/wrapper
