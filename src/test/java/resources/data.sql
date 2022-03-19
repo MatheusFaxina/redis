@@ -1,0 +1,1 @@
+INSERT INTO PERSON(id, name, phone, email) VALUES('1', 'João da Silva', '(44) 4 4444-4444', 'joao.silva@gmail.com');
